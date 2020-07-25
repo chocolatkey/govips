@@ -1,4 +1,4 @@
-module github.com/wix-playground/govips
+module github.com/chocolatkey/govips
 
 go 1.14
 
